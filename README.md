@@ -2,8 +2,7 @@
 
 #### INTRODUCTION
 
-  This is Seoul, one of the most populous cities in the world. With more than 10 million residents and a building density of 33,000 people per square kilometer, Seoul  has the perfect mix of urban sprawl and cozy neighborhoods. It's also home to one of the largest concentrations of bicycles in all the world—in other words, there's usually an empty bike for you when you need it. The city has been relying on a bike sharing system for years now to provide transportation services to its citizens. In many urban cities we can see bike station are providing bike facility for short distance. Riding bike every day also improves cholesterol level. The dataset contain numerical, categorical type of data, here we have two years of record of bike rented 2017 and 2018,and some other information like functioning day, humidity, temperature level, our project is we deal with various weather related fact to make accurate prediction without fail.
-
+  This is Seoul, one of the most populous cities in the world. With more than 10 million residents and a building density of 33,000 people per square kilometer, Seoul  has the perfect mix of urban sprawl and cozy neighborhoods. It's also home to one of the largest concentrations of bicycles in all the world—in other words, there's usually an empty bike for you when you need it. The city has been relying on a bike sharing system for years now to provide transportation services to its citizens. 
 In many urban cities we can see bike station are providing bike facility for short distance. Riding bike every day also improves cholesterol level.The dataset contain numerical, categorical type of data, here we have two years of record of bike rented 2017 and 2018,and some other information like functioning day, humidity, temperature level, our project is we deal with various weather related fact to make accurate prediction without fail.
 
 #### Problem Statement
